@@ -2,6 +2,7 @@ node_modules
 dist
 .env
 .env.local
+.vercel
 *.log
 *.tsbuildinfo
 vite.config.js
