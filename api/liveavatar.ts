@@ -1,3 +1,5 @@
+/// <reference types="node" />
+
 import type { VercelRequest, VercelResponse } from '@vercel/node'
 
 const LIVEAVATAR_API = 'https://api.liveavatar.com'
